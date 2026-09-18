@@ -1,0 +1,183 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 821 >>
+stream
+BT
+/F1 11 Tf
+16 TL
+1 0 0 1 56 736 Tm
+(RETAIL BANKING DIGITAL CHANNEL - REQUEST FOR PROPOSAL) Tj
+T*
+() Tj
+T*
+(1. INTRODUCTION) Tj
+T*
+(This Request for Proposal is issued by Meridian Bank for the supply of a digital) Tj
+T*
+(banking channel. Meridian Bank serves 4.2 million retail customers across 11) Tj
+T*
+(states and has operated since 1974. Bidders should read all sections carefully.) Tj
+T*
+() Tj
+T*
+(2. CUSTOMER MANAGEMENT) Tj
+T*
+(2.1 Authentication) Tj
+T*
+(The customer shall login using the registered mobile number.) Tj
+T*
+(The system shall support two-factor authentication for all customer logins.) Tj
+T*
+() Tj
+T*
+(2.2 Account Information) Tj
+T*
+(The system shall allow customers to view their account balance.) Tj
+T*
+(Customers shall be able to download their account statement in PDF format.) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 664 >>
+stream
+BT
+/F1 11 Tf
+16 TL
+1 0 0 1 56 736 Tm
+(3. TRANSACTIONS) Tj
+T*
+(3.1 Fund Transfer) Tj
+T*
+(To reduce fraudulent transactions, the system shall require additional) Tj
+T*
+(verification for high-value transfers.) Tj
+T*
+(The system shall allow customers to schedule future-dated transfers.) Tj
+T*
+() Tj
+T*
+(3.2 Notifications) Tj
+T*
+(Customers shall receive an email notification for transactions above) Tj
+T*
+(1 lakh rupees.) Tj
+T*
+(The system shall send an SMS notification after a successful transaction.) Tj
+T*
+() Tj
+T*
+(Note: Meridian Bank's existing notification platform is provided by a third) Tj
+T*
+(party under a contract that expires in 2027.) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 523 >>
+stream
+BT
+/F1 11 Tf
+16 TL
+1 0 0 1 56 736 Tm
+(4. REPORTING) Tj
+T*
+(4.1 Operational Reports) Tj
+T*
+(The system shall allow administrators to generate monthly transaction reports.) Tj
+T*
+(Reports shall be exportable in Excel format.) Tj
+T*
+(The system shall retain transaction reports for a minimum period of seven years.) Tj
+T*
+() Tj
+T*
+(5. SERVICE LEVELS) Tj
+T*
+(The solution shall be available 99.5% of the time measured monthly.) Tj
+T*
+(The bidder shall provide support between 08:00 and 20:00 on working days.) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 545 >>
+stream
+BT
+/F1 11 Tf
+16 TL
+1 0 0 1 56 736 Tm
+(6. COMMERCIAL TERMS) Tj
+T*
+(Bids must be submitted before 17:00 on 30 November. Late bids will be rejected.) Tj
+T*
+(Prices shall be quoted in Indian Rupees and shall remain valid for 120 days.) Tj
+T*
+() Tj
+T*
+(7. SECURITY) Tj
+T*
+(The system shall restrict administrative functions to authorised users.) Tj
+T*
+(All customer data shall be encrypted in transit and at rest.) Tj
+T*
+() Tj
+T*
+(8. EVALUATION) Tj
+T*
+(Proposals will be evaluated on technical merit and commercial competitiveness.) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000000330 00000 n 
+0000001202 00000 n 
+0000001328 00000 n 
+0000002043 00000 n 
+0000002169 00000 n 
+0000002743 00000 n 
+0000002871 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+3468
+%%EOF
